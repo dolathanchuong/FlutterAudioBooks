@@ -139,3 +139,23 @@ https://github.com/kodjodevf/mangayomi
 https://github.com/mylxsw/aidea
 https://github.com/niuhuan/daisy
 https://github.com/Notsfsssf/pixez-flutter
+## QuanDTp
+Các kiến thức systemadmin hiện tại:
+
+ESXI 6.5 – ( hệ thống ảo hóa VMWARE ) tìm hiểu them Vcenter ( quản lý nhiều ESXI cùng 1 chỗ )
+IIS và Loadbalancing trên Windows server 2012-2016
+Router ảo pfsence ( NAT port , open vpn, firewall , loadbalancing )
+Về server: Jira, git, centos, Ubuntu,
+Truenas ( server backup )
+
+Các kiến thức hệ thống sau này:
+
+        Kurbernet, docker, portainer 
+
+
+
+--------------------------------------------
+
+data --> datalakes --> data warehouse --> doarhbord ( Power BI, .....)
+
+
