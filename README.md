@@ -139,6 +139,8 @@ https://github.com/kodjodevf/mangayomi
 https://github.com/mylxsw/aidea
 https://github.com/niuhuan/daisy
 https://github.com/Notsfsssf/pixez-flutter
+
+https://github.com/MuhammadSabah/Frisp
 ## QuanDTp
 Các kiến thức systemadmin hiện tại:
 
